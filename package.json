@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npm install --prefix ui &&npm install --prefix api && npm run build --prefix ui",
+    "build": "npm install --prefix ui && npm install --prefix api && npm run build --prefix ui",
     "start": "npm run start --prefix api"
   },
   "keywords": [],
