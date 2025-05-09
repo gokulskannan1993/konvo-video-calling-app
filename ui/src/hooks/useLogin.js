@@ -8,7 +8,7 @@ const useLogin = () => {
         mutationFn: login,
         onSuccess: () => {
             // Invalidate and refetch
-            queryClient.invalidateQueries({ queryKey: ['authUser'] })
+            queryClient.invalidateQueries(["authUser"]);
             toast.success('Login successful')
         },
         onError: (error) => {
