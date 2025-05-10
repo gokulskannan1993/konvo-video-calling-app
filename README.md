@@ -18,7 +18,7 @@ Highlights:
 
 ## 🧪 .env Setup
 
-### Backend (`/backend`)
+### Backend (`/api`)
 
 ```
 PORT=5001
@@ -29,7 +29,7 @@ JWT_SECRET_KEY=your_jwt_secret
 NODE_ENV=development
 ```
 
-### Frontend (`/frontend`)
+### Frontend (`/ui`)
 
 ```
 VITE_STREAM_API_KEY=your_stream_api_key
@@ -40,7 +40,7 @@ VITE_STREAM_API_KEY=your_stream_api_key
 ## 🔧 Run the Backend
 
 ```bash
-cd backend
+cd api
 npm install
 npm run dev
 ```
@@ -48,7 +48,7 @@ npm run dev
 ## 💻 Run the Frontend
 
 ```bash
-cd frontend
+cd ui
 npm install
 npm run dev
 ```
