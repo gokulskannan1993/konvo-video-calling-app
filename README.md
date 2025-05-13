@@ -3,7 +3,7 @@
 
 # 🎥 Konvo Video Calling App — MERN Stack
 
-Konvo is a full-stack real-time communication platform that offers both chat and video calling functionalities. Built with the MERN stack, it provides features like 1-on-1 and group video calls, screen sharing, message reactions, and more.([GitHub][1])
+Konvo is a full-stack real-time communication platform that offers both chat and video calling functionalities. Built with the MERN stack, it provides features like 1-on-1 and group video calls, screen sharing, message reactions, and more.
 
 ## 🌐 Live Demo
 
